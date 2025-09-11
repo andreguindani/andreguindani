@@ -67,5 +67,12 @@ Me chamo André Kolett Guindani, tenho 18 anos e sou natural de Santa Catarina. 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreguindani&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+### 📞 Contato
+
+Entre em contato
+
+- 📧 **E-mail:** aguindani@gmail.com
+- 📷 **Instagram:** [@andreguindani_](https://www.instagram.com/andreguindani_/)
+- 🔗 **Portfólio:** [Portfólio](https://andreguindani.vercel.app)
