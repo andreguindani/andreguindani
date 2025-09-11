@@ -46,6 +46,14 @@ Me chamo André Kolett Guindani, tenho 18 anos e sou natural de Santa Catarina. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/java-original.svg?" 
+/>
 
 <br/>
 <br/>
@@ -58,14 +66,14 @@ Me chamo André Kolett Guindani, tenho 18 anos e sou natural de Santa Catarina. 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=andreguindani&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=andreguindani&theme=github_dark&show_icons=true&hide_border=false&count_private=true"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreguindani&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreguindani&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
