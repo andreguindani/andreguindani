@@ -58,14 +58,14 @@ Me chamo André Kolett Guindani, tenho 18 anos e sou natural de Santa Catarina. 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/?username=andreguindani\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515\&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreguindani&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreguindani&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
