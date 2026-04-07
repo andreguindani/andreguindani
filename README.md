@@ -1,6 +1,6 @@
 # 👩🏻‍💻 André Guindani
 
-Me chamo André Kolett Guindani, tenho 18 anos e sou natural de Santa Catarina. Estou cursando o ensino médio no IFC, com o curso técnico em informática. Sou apaixonado por tecnologia e estou buscando aprender e evoluir como desenvolvedor.
+Me chamo André Kolett Guindani, tenho 18 anos e sou natural de Santa Catarina. Me formei no Curso Técnico em Informática integrado com o Ensino Médio no IFC e atualmente estou cursando Ciência da Computação na Unoesc. Sou apaixonado por tecnologia e estou buscando aprender e evoluir como desenvolvedor.
 
 ---
 
