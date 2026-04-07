@@ -92,7 +92,7 @@
 
 <p align="left">
   <a href="mailto:aguindani7@gmail.com">Email</a> •
-  <a href="tel:+5549998202008">Telefone</a> •
+  <a href="https://wa.me/5549998202008" target="_blank">WhatsApp</a> •
   <a href="https://andreguindani.vercel.app/" target="_blank">Portfólio</a>
 </p>
 
