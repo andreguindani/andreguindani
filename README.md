@@ -1,79 +1,113 @@
-# 👩🏻‍💻 André Guindani
+# 👨🏻‍💻 André Guindani
 
-Me chamo André Kolett Guindani, tenho 18 anos e sou natural de Santa Catarina. Me formei no Curso Técnico em Informática integrado com o Ensino Médio no IFC e atualmente estou cursando Ciência da Computação na Unoesc. Sou apaixonado por tecnologia e estou buscando aprender e evoluir como desenvolvedor.
+<p align="left">
+  Estudante de <strong>Ciência da Computação</strong> na Unoesc, com formação técnica em Informática pelo IFC.
+  Gosto de transformar ideias em projetos práticos, aprender novas tecnologias e evoluir constantemente como desenvolvedor.
+</p>
+
+<p align="left">
+  Atualmente, meu foco está em fortalecer minha base em desenvolvimento, construir projetos cada vez melhores e expandir meu repertório com ferramentas e linguagens modernas.
+</p>
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
+<p align="left">
+  <img
     alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://icongr.am/devicon/java-original.svg?" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=andreguindani&theme=github_dark&show_icons=true&hide_border=false&count_private=true"
+    title="HTML"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreguindani&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  />
+  <img
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  />
+  <img
+    alt="Bootstrap"
+    title="Bootstrap"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+  />
+  <img
+    alt="PHP"
+    title="PHP"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+  />
+  <img
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
   />
 </p>
 
+---
+
+### 📌 Sobre mim
+
+- 🎓 18 anos, natural de Santa Catarina
+- 💻 Técnico em Informática pelo IFC
+- 📚 Graduando em Ciência da Computação na Unoesc
+- 🚀 Em busca de crescimento constante como desenvolvedor
+- 🛠️ Interesse em desenvolvimento web, programação e tecnologia
+
+---
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img
+    alt="GitHub Stats"
+    height="180"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=andreguindani&theme=github_dark&show_icons=true&hide_border=false&count_private=true"
+  />
+  <img
+    alt="Top Langs"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreguindani&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
+
+---
+
+### 📫 Contato
+
+
+<p align="left">
+  <a href="mailto:aguindani7@gmail.com">
+    <img
+      alt="Email"
+      src="https://img.shields.io/badge/Email-aguindani7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+  <a href="tel:+5549998202008">
+    <img
+      alt="Telefone"
+      src="https://img.shields.io/badge/Telefone-49%2099820--2008-1E90FF?style=for-the-badge&logo=googlemessages&logoColor=white"
+    />
+  </a>
+  <a href="https://andreguindani.vercel.app/" target="_blank">
+    <img
+      alt="Portfolio"
+      src="https://img.shields.io/badge/Portfolio-Acessar-111111?style=for-the-badge&logo=vercel&logoColor=white"
+    />
+  </a>
+</p>
