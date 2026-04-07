@@ -90,24 +90,14 @@
 
 ### 📫 Contato
 
+<p align="left">
+  <a href="mailto:aguindani7@gmail.com">Email</a> •
+  <a href="tel:+5549998202008">Telefone</a> •
+  <a href="https://andreguindani.vercel.app/" target="_blank">Portfólio</a>
+</p>
 
 <p align="left">
-  <a href="mailto:aguindani7@gmail.com">
-    <img
-      alt="Email"
-      src="https://img.shields.io/badge/Email-aguindani7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
-  <a href="tel:+5549998202008">
-    <img
-      alt="Telefone"
-      src="https://img.shields.io/badge/Telefone-49%2099820--2008-1E90FF?style=for-the-badge&logo=googlemessages&logoColor=white"
-    />
-  </a>
-  <a href="https://andreguindani.vercel.app/" target="_blank">
-    <img
-      alt="Portfolio"
-      src="https://img.shields.io/badge/Portfolio-Acessar-111111?style=for-the-badge&logo=vercel&logoColor=white"
-    />
-  </a>
+  <strong>Email:</strong> aguindani7@gmail.com<br/>
+  <strong>Telefone:</strong> 49 99820-2008<br/>
+  <strong>Portfólio:</strong> andreguindani.vercel.app
 </p>
