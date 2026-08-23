@@ -65,17 +65,6 @@ Gosto de transformar ideias e desafios em projetos práticos, focando em escreve
 
 ---
 
-### 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Portfólio Pessoal** | Site pessoal apresentando projetos, trajetória e formas de contato. | `HTML` `CSS` `JS` | [🌐 Live Demo](https://andreguindani.vercel.app/) • [💻 Código](https://github.com/andreguindani/portfolio) |
-| **NutriAgro** | Projeto de aplicação web voltado à área agropecuária e nutrição. | `Web` | [💻 Código](https://github.com/andreguindani/nutriagro) |
-| **Estrutura de Dados** | Implementações de algoritmos e conceitos fundamentais de estruturas de dados. | `C#` | [💻 Código](https://github.com/andreguindani/Estrutura-de-dados) |
-| **Controle de Produção** | Sistema para automação e gestão de processos produtivos. | `Python` | [💻 Código](https://github.com/andreguindani/controle_producao) |
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
