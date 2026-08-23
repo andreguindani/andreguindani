@@ -65,9 +65,8 @@ Gosto de transformar ideias e desafios em projetos práticos, focando em escreve
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Atividade no GitHub
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreguindani&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreguindani&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreguindani&theme=github-dark&hide_border=true&area=true" width="100%" alt="Gráfico de Atividades do André" />
+</div>
